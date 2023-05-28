@@ -1,0 +1,42 @@
+
+
+recipes{
+    background-color: rgb(250, 255, 222);
+    display: block;
+    margin: 5em;
+}
+
+recipe{
+    display: grid;
+    margin: 100px;
+    /* grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr; */
+}
+
+recipe:hover{
+    background-color: rgb(239, 255, 238);
+}
+
+name{
+    display: block;
+    font-size: x-large;
+    color: rgb(19, 165, 44);
+    margin-top: 2em;
+}
+
+ingredients{
+    font-size: larger;
+    color: rgb(255, 182, 113);
+    margin-top: 2em;
+}
+
+instructions{
+    display: block;
+    font-size: larger;
+    color: rgb(59, 0, 0);
+    margin-top: 2em;
+}
+
+countries{
+    background-color: rgb(252, 249, 255);
+}

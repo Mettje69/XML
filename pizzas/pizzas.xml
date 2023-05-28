@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="main.css" type="text/css" ?>
+
+<!DOCTYPE recipes [
+  <!ELEMENT recipes (recipe)*>
+  <!ELEMENT recipe (name, ingredients, instructions)>
+  <!ELEMENT name (#PCDATA)>
+  <!ELEMENT ingredients (#PCDATA)>
+  <!ELEMENT instructions (#PCDATA)>
+]>
+
+<recipes>
+    <recipe>
+        <name>Margherita Pizza</name>
+        <ingredients>Tomatoes, Mozzarella Cheese, Basil, Olive Oil, Salt</ingredients>
+        <instructions>
+            Preheat the oven to 450°F.
+            Roll out the pizza dough on a floured surface.
+            Spread olive oil over the dough.
+            Add the tomato sauce and spread evenly.
+            Add the mozzarella cheese and basil.
+            Bake for 15-20 minutes or until the crust is golden brown.
+        </instructions>
+    </recipe>
+    <recipe>
+        <name>Pepperoni Pizza</name>
+        <ingredients>Pizza Dough, Tomato Sauce, Mozzarella Cheese, Pepperoni, Olive Oil, Salt</ingredients>
+        <instructions>
+            Preheat the oven to 450°F.
+            Roll out the pizza dough on a floured surface.
+            Spread olive oil over the dough.
+            Add the tomato sauce and spread evenly.
+            Add the mozzarella cheese and pepperoni.
+            Bake for 15-20 minutes or until the crust is golden brown.
+        </instructions>
+    </recipe>
+    <recipe>
+        <name>Hawaiian Pizza</name>
+        <ingredients>Pizza Dough, Tomato Sauce, Mozzarella Cheese, Ham, Pineapple, Olive Oil, Salt</ingredients>
+        <instructions>
+            Preheat the oven to 450°F.
+            Roll out the pizza dough on a floured surface.
+            Spread olive oil over the dough.
+            Add the tomato sauce and spread evenly.
+            Add the mozzarella cheese, ham, and pineapple.
+            Bake for 15-20 minutes or until the crust is golden brown.
+        </instructions>
+    </recipe>
+    <recipe>
+        <name>Veggie Pizza</name>
+        <ingredients>Pizza Dough, Tomato Sauce, Mozzarella Cheese, Bell Peppers, Mushrooms, Onions, Olives, Olive
+            Oil, Salt</ingredients>
+        <instructions>
+            Preheat the oven to 450°F.
+            Roll out the pizza dough on a floured surface.
+            Spread olive oil over the dough.
+            Add the tomato sauce and spread evenly.
+            Add the mozzarella cheese, bell peppers, mushrooms, onions, and olives.
+            Bake for 15-20 minutes or until the crust is golden brown.
+        </instructions>
+    </recipe>
+    <recipe>
+        <name>Meat Lovers Pizza</name>
+        <ingredients>Pizza Dough, Tomato Sauce, Mozzarella Cheese, Sausage, Bacon, Ham, Olive Oil, Salt
+        </ingredients>
+        <instructions>
+            Preheat the oven to 450°F.
+            Roll out the pizza dough on a floured surface.
+            Spread olive oil over the dough.
+            Add the tomato sauce and spread evenly.
+            Add the mozzarella cheese, sausage, bacon, and ham.
+            Bake for 15-20 minutes or until the crust is golden brown.
+        </instructions>
+    </recipe>
+</recipes>

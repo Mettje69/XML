@@ -1,0 +1,32 @@
+<?xml-model href="movies.xsd"?>
+<root>
+    <movie
+        title="The Shawshank Redemption" year="1994" rated="R" released="14 Oct 1994" runtime="142 min"
+        genre="Drama" director="Frank Darabont" writer="Stephen King (short story), Frank Darabont (screenplay)"
+        actors="Tim Robbins, Morgan Freeman, Bob Gunton"
+        plot="Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+        language="English" country="USA"
+        awards="Nominated for 7 Oscars. Another 21 wins and 36 nominations."
+        poster="https://m.media-amazon.com/images/M/MV5BMDFkYTdmZGEtMzdkZi00YTAwLWFlNDItMjgyMjI1Nzk5NzY4XkEyXkFqcGdeQXVyMTAwMzM3NDI2._V1_SX300.jpg"
+        metascore="80" imdbRating="9.3" imdbVotes="2,416,748" imdbID="tt0111161" type="movie" />
+    <movie
+        title="The Godfather" year="1972" rated="R" released="24 Mar 1972" runtime="175 min"
+        genre="Crime, Drama" director="Francis Ford Coppola" writer="Mario Puzo (screenplay by), Francis Ford Coppola (screenplay by)"
+        actors="Marlon Brando, Al Pacino, James Caan"
+        plot="The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+        language="English, Italian, Latin"
+        country="USA"
+        awards="Won 3 Oscars. Another 30 wins and 19 nominations."
+        poster="https://m.media-amazon.com/images/M/MV5BM2MyNWNmODAtMmM4Mi00MDEwLWIxYjAtZjU4ZGYxZjA1YmE3XkEyXkFqcGdeQXVyMTAyMTA3ODg5._V1_SX300.jpg"
+        metascore="100" imdbRating="9.2" imdbVotes="1,668,501" imdbID="tt0068646" type="movie" />
+    <movie
+        title="The Dark Knight" year="2008" rated="PG-13" released="18 Jul 2008" runtime="152 min"
+        genre="Action, Crime, Drama" director="Christopher Nolan" writer="Jonathan Nolan (screenplay), Christopher Nolan (screenplay)"
+        actors="Christian Bale, Heath Ledger, Aaron Eckhart"
+        plot="When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+        language="English, Mandarin"
+        country="USA, UK"
+        awards="Won 2 Oscars. Another 157 wins and 163 nominations."
+        poster="https://m.media-amazon.com/images/M/MV5BMTMxNTM5OTU1NV5BMl5BanBnXkFtZTcwMjQ5NjgwMQ@@._V1_SX300.jpg"
+        metascore="84" imdbRating="9.0" imdbVotes="2,347,861" imdbID="tt0468569" type="movie" />
+</root>

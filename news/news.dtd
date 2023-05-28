@@ -1,0 +1,7 @@
+<!ELEMENT items (item+)>
+<!ELEMENT item (title,description,link,guid,pubDate,author,category+,enclosure)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT link (#PCDATA)>
+<!ELEMENT guid (#PCDATA)>
+<!ATTLIST guid isPermaLink NMTOKEN #FIXED "false"><!ELEMENT pubDate (#PCDATA)><!ELEMENT author (#PCDATA)><!ELEMENT category (#PCDATA)><!ATTLIST category domain CDATA #REQUIRED><!ELEMENT enclosure EMPTY><!ATTLIST enclosure url CDATA #REQUIRED><!ATTLIST enclosure length CDATA #FIXED ""><!ATTLIST enclosure type CDATA #FIXED "image/jpeg">

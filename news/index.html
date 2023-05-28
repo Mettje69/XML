@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>News</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+  <h1>News</h1>
+
+  {% for article in articles %}
+    <div class="article">
+      <div class="title">{{ article.title }}</div>
+      {% if article.image_url %}
+        <img class="image" src="{{ article.image_url }}">
+      {% endif %}
+      <div class="category">Category: {{ article.category }}</div>
+      <div class="description">{{ article.description }}</div>
+      <div class="pub-date">{{ article.pub_date }}</div>
+      <div class="author">By: {{ article.author }}</div>
+    </div>
+  {% endfor %}
+</body>
+</html>

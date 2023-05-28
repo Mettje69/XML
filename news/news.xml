@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <!DOCTYPE items SYSTEM "news.dtd"> -->
+
+<items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="news.xsd">
+ 
+<item>
+    <title>PERSOON ⟩ Eesti muusiku aus ülestunnistus: kui tahan olla kuulus artist, siis ma
+        pean kaalust alla võtma ja...</title>
+    <description>26-aastane Karmel Üksvärav, artistinimega Karmella, pälvis suurema tuntuse
+        tüdrukutebändis Little Mess, kuid on oma eraelus läbi tulnud suurtest raskustest,
+        mis paljud inimesed kergesti maha murraks. Kasvamine enesekindlaks muusikuks ja
+        naiseks pole olnud lihtne, kuid Karmel tunnistab, et ta pole kunagi ennast paremini
+        tundnud kui praegu. </description>
+    <link>https://pmo.ee/7748387</link>
+    <guid isPermaLink="false">pm#7748387</guid>
+    <pubDate>Mon, 10 Apr 2023 10:01:00 +0300</pubDate>
+    <author>Mona Lii Konnapere</author>
+    <category domain="https://naine.postimees.ee">Naine</category>
+    <category domain="https://naine.postimees.ee/section/950">Persoon</category>
+    <enclosure
+        url="https://f12.pmo.ee/AP-nLyUo8Q44OSORCluZtjDImF8=/480x270/filters:focal(1077x1011:3143x4422)/nginx/o/2023/04/08/15245350t1hea6b.jpg"
+        length="" type="image/jpeg" />
+</item>
+<item>
+    <title>Ukraina meedia hurjutas Dmitri Tursunoviga koostöö lõpetanud tipptennisisti:
+        tore, aga liiga hilja!</title>
+    <description>Naiste tennise 11. reket Belinda Bencic otsustas lõpetada koostöö Anett
+        Kontaveidi endise treener Dmitri Tursunoviga. </description>
+    <link>https://pmo.ee/7750264</link>
+    <guid isPermaLink="false">pm#7750264</guid>
+    <pubDate>Mon, 10 Apr 2023 10:00:00 +0300</pubDate>
+    <author>Toimetas Karl Juhkami</author>
+    <category domain="https://sport.postimees.ee">Sport</category>
+    <category domain="https://sport.postimees.ee/section/293">Tennis</category>
+    <enclosure
+        url="https://f12.pmo.ee/634q9Hd8YNzuyT3gh_F9a9-6W00=/480x270/filters:focal(1525x213:2280x642)/nginx/o/2023/04/10/15247318t1hde5a.jpg"
+        length="" type="image/jpeg" />
+</item>
+<item>
+    <title>Riina Solman ⟩ Liberaalid, võrdsustage ülestõusmispühade ajal Euroopas antav
+        vabade päevade arv ka Eestis</title>
+    <description>Kui muu Euroopa esmaspäeval puhkab, siis Eesti käib hambad ristis
+        protestantliku tööeetikuna tööl, kirjutab riigihalduse minister Riina Solman
+        (Isamaa).</description>
+    <link>https://pmo.ee/7749299</link>
+    <guid isPermaLink="false">pm#7749299</guid>
+    <pubDate>Mon, 10 Apr 2023 10:00:00 +0300</pubDate>
+    <author>Riina Solman</author>
+    <category domain="https://arvamus.postimees.ee">Arvamus</category>
+    <enclosure
+        url="https://f10.pmo.ee/4L9jEN5LSREF9hehNbP1TWmZfWQ=/480x270/filters:focal(533x89:1348x864)/nginx/o/2023/03/13/15196546t1h157e.jpg"
+        length="" type="image/jpeg" />
+</item>
+<item>
+    <title>GALERII ⟩ Ultima Thule jättis liigutaval kontserdil hüvasti Riho Sibulaga</title>
+    <description>8. aprilli õhtul andis Ultima Thule Alexela Kontserdimajas meeleoluka
+        kontserdi, millega tehti kummardus nii lojaalsetele fännidele kui ka lahkunud
+        bändiliikmetele. Vaata galeriist, kuidas kontsert möödus!</description>
+    <link>https://pmo.ee/7750004</link>
+    <guid isPermaLink="false">pm#7750004</guid>
+    <pubDate>Mon, 10 Apr 2023 09:52:01 +0300</pubDate>
+    <author>Kultuuritoimetus</author>
+    <category domain="https://kultuur.postimees.ee">Kultuur</category>
+    <category domain="https://kultuur.postimees.ee/section/2195">Muusika</category>
+    <enclosure
+        url="https://f8.pmo.ee/FFpO4NxtcwwQ6IA6A3gAUgjn3sY=/480x270/smart/nginx/o/2023/04/08/15245799t1h8e21.jpg"
+        length="" type="image/jpeg" />
+</item>
+<item>
+    <title>Tävavatele lisandub lähiajal üle 600 rendiratta</title>
+    <description>Koos ilusate kevadilmade saabumisega on alanud ka rattasõidu hooaeg ning
+        Tartu linnavalitsus plaanib lähipäevil tänavatele tuua suurema hulga elektrilisi
+        rendirattaid.</description>
+    <link>https://pmo.ee/7748819</link>
+    <guid isPermaLink="false">pm#7748819</guid>
+    <pubDate>Mon, 10 Apr 2023 09:51:00 +0300</pubDate>
+    <author>Egeli Raudmäe</author>
+    <category domain="https://tartu.postimees.ee">Tartu Postimees</category>
+    <enclosure
+        url="https://f11.pmo.ee/kaX3ndJZAG480mj7UlLuzoBRxUs=/480x270/smart/nginx/o/2023/04/06/15242155t1h21b4.jpg"
+        length="" type="image/jpeg" />
+</item>
+</items>

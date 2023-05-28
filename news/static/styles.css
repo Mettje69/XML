@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.article {
+  margin-bottom: 20px;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.description {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.pub-date {
+  font-style: italic;
+  margin-bottom: 5px;
+}
+
+.author {
+  margin-top: 5px;
+}
+
+.category {
+  margin-top: 5px;
+}
+
+.image {
+  max-width: 100%;
+  height: auto;
+  margin-top: 10px;
+}

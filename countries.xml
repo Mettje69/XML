@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="main.css" type="text/css" ?>
+
+<!DOCTYPE countries [
+  <!ELEMENT countries (country)*>
+  <!ELEMENT country (name, language, currency-name, symbol)>
+  <!ELEMENT name (#PCDATA)>
+  <!ELEMENT language (#PCDATA)>
+  <!ELEMENT currency-name (#PCDATA)>
+  <!ELEMENT symbol (#PCDATA)>
+]>
+
+<countries>
+    <country>
+        <name>USA</name>
+        <language>English</language>
+        <currency-name>USD</currency-name>
+        <symbol>$</symbol>
+    </country>
+    <country>
+        <name>France</name>
+        <language>French</language>
+        <currency-name>Euro</currency-name>
+        <symbol>€</symbol>
+    </country>
+    <country>
+        <name>Japan</name>
+        <language>Japanese</language>
+        <currency-name>Yen</currency-name>
+        <symbol>¥</symbol>
+    </country>
+    <country>
+        <name>Australia</name>
+        <language>English</language>
+        <currency-name>USD</currency-name>
+        <symbol>$</symbol>
+    </country>
+    <country>
+        <name>Spain</name>
+        <language>Spanish</language>
+        <currency-name>Euro</currency-name>
+        <symbol>€</symbol>
+    </country>
+    <country>
+        <name>Mexico</name>
+        <language>Spanish</language>
+        <currency-name>Euro</currency-name>
+        <symbol>$</symbol>
+    </country>
+    <country>
+        <name>China</name>
+        <language>Chinese</language>
+        <currency-name>Yen</currency-name>
+        <symbol>¥</symbol>
+    </country>
+    <country>
+        <name>Germany</name>
+        <language>German</language>
+        <currency-name>Euro</currency-name>
+        <symbol>€</symbol>
+    </country>
+    <country>
+        <name>Canada</name>
+        <language>English</language>
+        <currency-name>CAD</currency-name>
+        <symbol>$</symbol>
+    </country>
+    <country>
+        <name>Italy</name>
+        <language>Italian</language>
+        <currency-name>Euro</currency-name>
+        <symbol>€</symbol>
+    </country>
+</countries>
